@@ -1,0 +1,4 @@
+{
+  "kotlin.format.onSave": true,
+  "kotlin.format.ktlint.path": "../.kotlin/ktlint"
+}
