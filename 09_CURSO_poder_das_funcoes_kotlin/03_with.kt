@@ -18,5 +18,10 @@ fun main() {
     configuration.run{
         println("$host:$port")
     }
+
+    // Outra forma alternativa
+    configuration.let{
+        println("${it.host}:${it.port}")
+    }
     
 }
