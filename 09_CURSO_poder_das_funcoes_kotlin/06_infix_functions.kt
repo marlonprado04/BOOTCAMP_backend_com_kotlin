@@ -34,5 +34,4 @@ class Person(val name: String) {
     // Cria infix function para adicionar uma pessoa à lista de outra
     infix fun likes(other: Person) { likedPeople.add(other) }
 
-    // o dedé é gênio
 }
