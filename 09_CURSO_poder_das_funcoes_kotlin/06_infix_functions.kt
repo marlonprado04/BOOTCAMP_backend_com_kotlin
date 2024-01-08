@@ -33,4 +33,6 @@ class Person(val name: String) {
     val likedPeople = mutableListOf<Person>()
     // Cria infix function para adicionar uma pessoa à lista de outra
     infix fun likes(other: Person) { likedPeople.add(other) }
+
+    // o dedé é gênio
 }
