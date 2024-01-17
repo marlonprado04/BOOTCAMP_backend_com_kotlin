@@ -12,6 +12,27 @@ Data: 05/01/2024
 
 ## Índice
 
+- [O Poder das Funções em Kotlin](#o-poder-das-funções-em-kotlin)
+  - [Índice](#índice)
+  - [Antes de começar](#antes-de-começar)
+  - [Apresentação](#apresentação)
+    - [Introdução e objetivos](#introdução-e-objetivos)
+  - [Funções de escopo](#funções-de-escopo)
+    - [Let](#let)
+    - [Run](#run)
+    - [With](#with)
+    - [Apply](#apply)
+    - [Also](#also)
+  - [Tipos de Funções](#tipos-de-funções)
+    - [Infix Functions](#infix-functions)
+    - [Operator Functions](#operator-functions)
+    - [**Higher Order Functions Parameters**](#higher-order-functions-parameters)
+    - [Lambda Functions](#lambda-functions)
+    - [Extension Functions e Properties](#extension-functions-e-properties)
+    - [Extension Functions Generics](#extension-functions-generics)
+    - [Suspend Functions](#suspend-functions)
+  - [Materiais de apoio e referências](#materiais-de-apoio-e-referências)
+
 ## Antes de começar
 
 - [x]  Criar pasta referente ao curso
