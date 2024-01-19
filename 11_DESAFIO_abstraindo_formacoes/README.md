@@ -10,5 +10,5 @@ Abaixo, você encontrará detalhes sobre como acessar o conteúdo completo:
 
 O conteúdo completo deste curso/projeto está disponível em:
 
-- **GitHub:** [PROJETO Kotlin Abstraindo Formações DIO
-](https://github.com/marlonprado04/PROJETO_kotlin_abstraindo_formacoes_dio)
+- **GitHub:** [DESAFIO DIO Kotlin Abstraindo Formações DIO
+](https://github.com/marlonprado04/DESAFIO_DIO_kotlin_abstraindo_formacoes_dio)
